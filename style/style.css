@@ -72,6 +72,8 @@ h1 {
     color: #c8a44b;
     border: 1px solid #5a452a;
     border-radius: 10px;
+    height: 36rem;   
+   
 }
 
 .card-tittle {
@@ -108,9 +110,79 @@ h1 {
     padding: 20px;
     border-radius: 12px;
     color: white;
+
+}
+
+.cards-container .card {
+    height: 38rem;        
+    display: flex;
+    flex-direction: column;
 }
 
 .card img {
     width: 100%;
     border-radius: 10px;
+}
+
+
+.reservar {
+    font-family: "Cinzel", serif;
+    color: goldenrod;
+    text-align: center;
+    background-color: #0d0d0d;
+    border: 2px solid goldenrod;
+    border-radius: 8px;
+}
+
+.mb-3 {
+    background-color: black;
+    font-family: "Cinzel", serif;
+    color: goldenrod; 
+    border: 2px solid goldenrod;
+    border-radius: 8px;
+}
+
+.form-select {
+    background-color: black;
+    font-family: "Cinzel", serif;
+    color: goldenrod; 
+    border: 2px solid goldenrod;
+    border-radius: 8px;
+
+}
+
+.btn {
+    background-color: black;
+    font-family: "Cinzel", serif;
+    color: goldenrod; 
+    margin-top: 8px;
+}
+
+
+.info-reserva {
+    font-family: "Cinzel", serif;
+    text-align: center;
+    margin: 12px 12px;
+
+}
+
+
+
+
+
+.mediosdepago {
+    background-color: #0A0A0A;
+    border: 2px solid goldenrod;
+    color: goldenrod;
+    border-radius: 8px;
+    text-align: center;
+    font-family: "Cinzel", serif;
+    font-size: 18px;    
+    padding: 0;
+    margin-left: 0;
+}
+
+.mediosdepago li {
+    font-family: "Cinzel", serif;
+    margin-bottom: 6px;
 }
