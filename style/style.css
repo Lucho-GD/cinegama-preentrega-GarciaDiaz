@@ -216,3 +216,22 @@ h1 {
 
 }
 
+.info-contacto {
+    font-family: "Cinzel", serif;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+
+}
+
+.info-contacto .contacto {
+    text-align: left;
+    margin-left: 20px;
+    padding: 20px;
+    text-decoration: underline;
+}
+
+.form-contacto {
+    font-family: "Cinzel", serif;
+    
+}
