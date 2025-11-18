@@ -29,6 +29,9 @@
 .navbar .nav-link.active:hover {
 color: goldenrod;
 }
+.navbar-toggler-icon {
+    filter: invert(1);
+}
 
 h1 {
     font-family: "Cinzel", serif;
